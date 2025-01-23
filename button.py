@@ -2,7 +2,7 @@ import os
 import requests
 chop_etish = print
 
-Token = "7542472244:AAF_uzh6u6yy9wVZcGJ7r-Z9rhR51byUv04"
+Token = ""
 BASE_URL = f"https://api.telegram.org/bot{Token}/"
 
 def get_id():
